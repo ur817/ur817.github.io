@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p> SHWETA I AM SORRYYY <p>
+<p> SHWETA , Tu Acchi hai, mein pagall hun <p>
 
 <h2>Skills</h2>
 

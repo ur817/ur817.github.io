@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p> SHWETA , Tu Acchi hai, mein pagall hun <p>
+<p> Shivnadar University. Sophomore. CSE </p>
 
 <h2>Skills</h2>
 
